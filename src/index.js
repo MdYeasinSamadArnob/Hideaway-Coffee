@@ -1,6 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
+import 'leaflet/dist/leaflet.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
